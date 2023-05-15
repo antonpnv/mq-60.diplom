@@ -41,7 +41,7 @@ ul {
   padding-bottom: 127px;
   margin-bottom: 58px;
 
-  background: url("/images/banner-bg.jpg");
+  background: url("../images/banner-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -187,7 +187,7 @@ ul {
   height: 18px;
   border: none;
   margin-bottom: 8px;
-  background-image: url("/svg/form-x.svg");
+  background-image: url("../svg/form-x.svg");
   background-repeat: no-repeat;
   background-size: 18px;
   background-color: transparent;
@@ -261,7 +261,7 @@ h2.popup-title {
   font-weight: 400;
   font-family: "OpenSans";
 
-  background-image: url("/svg/form-arrows.svg");
+  background-image: url("../svg/form-arrows.svg");
   background-repeat: no-repeat;
   background-size: 10px;
   background-position: center right 13px;
@@ -297,12 +297,12 @@ h2.popup-title {
   width: 17px;
   height: 17px;
   display: inline-block;
-  background: url("/svg/form-empty-circle.svg") no-repeat left bottom / 17px;
+  background: url("../svg/form-empty-circle.svg") no-repeat left bottom / 17px;
   padding-right: 5px;
 }
 
 .popup-radio-opt:checked + .popup-radio-text::before {
-  background-image: url("/svg/form-circle.svg");
+  background-image: url("../svg/form-circle.svg");
 }
 
 .pop-submit-button {
@@ -404,19 +404,19 @@ h2.popup-title {
 }
 
 .trend-one {
-  background-image: url("/images/trend1.jpg");
+  background-image: url("../images/trend1.jpg");
 }
 
 .trend-two {
-  background-image: url("/images/trend2.jpg");
+  background-image: url("../images/trend2.jpg");
 }
 
 .trend-three {
-  background-image: url("/images/trend3.jpg");
+  background-image: url("../images/trend3.jpg");
 }
 
 .trend-four {
-  background-image: url("/images/trend4.jpg");
+  background-image: url("../images/trend4.jpg");
 }
 
 /* Content */
@@ -618,7 +618,7 @@ h2.popup-title {
 .search-button {
   width: 48px;
   height: 48px;
-  background: url("/svg/search.svg");
+  background: url("../svg/search.svg");
   background-color: #b59f5b;
   background-repeat: no-repeat;
   background-position: center center;
@@ -865,21 +865,21 @@ h2.popup-title {
 }
 
 .dribbble {
-  background: url("/svg/001-dribbble.svg");
+  background: url("../svg/001-dribbble.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 20px;
 }
 
 .pinterest {
-  background: url("/svg/001-pinterest.svg");
+  background: url("../svg/001-pinterest.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 20px;
 }
 
 .twitter {
-  background: url("/svg/004-twitter.svg");
+  background: url("../svg/004-twitter.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 20px;
@@ -914,7 +914,7 @@ h2.popup-title {
 /* Header tablet */
 
   .header {
-    background: url("/images/banner-bg-tablet.jpg");
+    background: url("../images/banner-bg-tablet.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -962,7 +962,7 @@ h2.popup-title {
     height: 23px;
     display: inline-block;
 
-    background: url("/svg/form-empty-circle.svg");
+    background: url("../svg/form-empty-circle.svg");
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: 23px;
@@ -1100,7 +1100,7 @@ h2.popup-title {
   /* Header mobile */
 
   .header {
-    background: url("/images/banner-mobile.jpg");
+    background: url("../images/banner-mobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -1172,7 +1172,7 @@ h2.popup-title {
     height: 24px;
     display: inline-block;
 
-    background: url("/svg/form-empty-circle.svg");
+    background: url("../svg/form-empty-circle.svg");
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: 24px;
