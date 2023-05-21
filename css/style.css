@@ -450,7 +450,6 @@ h2.popup-title {
 .image-post {
   margin-right: 30px;
   width: 381px;
-  height: 295px;
 
   background-color: #eff6f1;
 }
@@ -751,7 +750,6 @@ h2.popup-title {
 .shop-list {
   width: 100%;
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 60px;
 }
@@ -767,9 +765,9 @@ h2.popup-title {
 }
 
 .shop-text {
-  max-width: 304px;
+  max-width: 305px;
   border: 3px solid #b59f5b;
-  padding: 50px 20px 25px 18px;
+  padding: 50px 60px 25px 20px;
   margin-top: -37px;
   flex-grow: 1;
 }
@@ -1288,6 +1286,7 @@ h2.popup-title {
   }
 
   .shop-list {
+    flex-wrap: wrap;
     gap: 28px;
   }
 
@@ -1298,7 +1297,6 @@ h2.popup-title {
   }
 
   .shop-picture {
-    display: block;
     width: 100%;
   }
 
@@ -1319,7 +1317,7 @@ h2.popup-title {
   /* Footer mobile*/
 
   .footer {
-    width: 90%;
+    width: 94%;
     margin-bottom: 50px;
   }
 }
